@@ -99,8 +99,5 @@ $ make
 ## Exit Status
 Exits with status `EXIT_FAILURE`
 
-## Authors & Credits
-- [Oluwatomisin ISOGUN](https://@github.com/TosinISOGUN)
-- [Adeoye Abisola](https://@github.com/Biswealth1)
 
 > Thank you for reading through our README documentation.
